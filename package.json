@@ -1,0 +1,9 @@
+{
+  "name": "status-ledger-pattern-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fictional demo of generating a STATUS.md single-source-of-truth ledger from mocked service checks, with drift detection.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
